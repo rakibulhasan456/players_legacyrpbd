@@ -1,4 +1,4 @@
-const API_URL = "https://servers-frontend.fivem.net/api/servers/single/8p75gb";
+const API_URL = "https://servers-frontend.fivem.net/api/servers/single/ym6xyy";
 
 const playersTable = document.querySelector("#playersTable tbody");
 const playerCount = document.querySelector("#playerCount");
